@@ -4,7 +4,7 @@
  * A file that contains the supporting functions for main() in the
  * ~/robots example source for Software Engineering.
  *
- * @author Tanya L. Crenshaw, Nathan Schmedake, Kincaid Larson
+ * @author Tanya L. Crenshaw, Nathan Schmedake, Kincaid Larson, Leonie Freyta
  * @since August 2013
  *
  */
